@@ -18,7 +18,7 @@
 * Website: https://dev.to/yongchanghe
 * Twitter: [@yongchanghe](https://twitter.com/yongchanghe)
 * Github: [@hyc0812](https://github.com/hyc0812)
-* LinkedIn: [@yongchanghe](https://linkedin.com/in/yongchanghe)
+* LinkedIn: [@yongchanghe](https://www.linkedin.com/in/yongchang-he-935405135/)
 
 ## Show your support
 
