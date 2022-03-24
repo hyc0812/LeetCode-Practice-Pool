@@ -29,5 +29,4 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [Yongchang He](https://github.com/hyc0812).<br />
 This project is [Apache 2.0](https://github.com/hyc0812/LeetCode-Practice-Pool/blob/master/LICENSE) licensed.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
