@@ -29,14 +29,9 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [Yongchang He](https://github.com/hyc0812).<br />
 This project is [Apache 2.0](https://github.com/hyc0812/LeetCode-Practice-Pool/blob/master/LICENSE) licensed.
 
+[Problem 2](https://leetcode.com/problems/add-two-numbers/description/?envType=featured-list&envId=top-interview-questions) Solution:
 
-Problem 2: 
-You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
-You may assume the two numbers do not contain any leading zero, except the number 0 itself.
-[LINK](https://leetcode.com/problems/add-two-numbers/description/?envType=featured-list&envId=top-interview-questions)
-
-Solution:
 ```
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
@@ -63,7 +58,7 @@ class Solution {
 }
 ```
 
-[Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=featured-list&envId=top-interview-questions) 3: 
+[Problem 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=featured-list&envId=top-interview-questions) Solution: 
 
 ```
 class Solution {
